@@ -12,7 +12,7 @@ This project required Python 3.x and the following Python libraries installed:
 
 - Pandas
 - NumPy
-- Matplotlib
+- Plotly
 
 ##  Data Dictionary 
 
